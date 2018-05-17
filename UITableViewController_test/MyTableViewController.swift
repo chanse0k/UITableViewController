@@ -10,7 +10,7 @@ import UIKit
 
 class MyTableViewController: UITableViewController {
 
-    var data = ["홍길동", "임꺽정", "이순신"]
+    var data = ["홍길동", "척춘경", "이순신"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
